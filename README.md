@@ -1,1 +1,2 @@
-<img width="3000" height="3000" alt="USDT_Logo" src="https://github.com/user-attachments/assets/4afccdbc-4e4f-4da2-82e8-f52bbc3a6701" />
+<img width="2048" height="2048" alt="Gemini_Generated_Image_f3i2qnf3i2qnf3i2" src="https://github.com/user-attachments/assets/237af773-ad07-438f-be79-b7486073316f" />
+
